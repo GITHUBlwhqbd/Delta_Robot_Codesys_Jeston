@@ -35,6 +35,11 @@ This project is a vision recognition system based on the NVIDIA Jetson platform,
 
 ![Demo Image](./images/5.jpg)
 
+## Project Demonstration Video
+
+Watch the demo video [here](https://vimeo.com/1019118744?share=copy#t=0).
+This video showcases a comprehensive vision recognition and industrial robotic control solution based on NVIDIA's Jetson platform and the CODESYS industrial robot controller. The demonstration integrates NVIDIA's vision operation interface directly into the industrial robot control system, providing seamless interaction between vision detection and robotic manipulation. The video presents the full process of real-time object recognition, automated vision-guided picking, and placement using a coordinated control system. This project exemplifies the practical integration of advanced vision recognition technologies into industrial automation workflows.
+
 ---
 
 ## Features
