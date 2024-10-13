@@ -50,6 +50,7 @@ This project is a vision recognition system based on the NVIDIA Jetson platform,
 ### Operating System:
 - Ubuntu 22.04
 - JetPack 6.0 (corresponding to L4T 36.3.0)
+- Base Image Pulling：Refer to Section 1 of the Jetson AI Courses and Certifications—NVIDIA Deep Learning Institute's "Getting Started with AI on Jetson Nano" course. 
 
 ### Software:
 - Docker CE
