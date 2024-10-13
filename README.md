@@ -31,6 +31,10 @@ Special thanks to NVIDIA for the detailed tutorials and to the Realtime Language
 ## Project Overview 
 This project is a vision recognition system based on the NVIDIA Jetson platform, utilizing deep learning to achieve real-time object detection and segmentation. Deployed using Docker containerization, the project provides both JupyterLab and Gradio interfaces for ease of development and testing.
 
+## Project Demonstration Interface
+
+![Demo Image](./images/5.jpg)
+
 ---
 
 ## Features
